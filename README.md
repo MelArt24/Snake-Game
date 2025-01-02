@@ -1,4 +1,5 @@
-Snake Game is a classic arcade game. We all played it in our childhood or at some later stage in life.
+# Snake Game 🐍
 
-This repository contains my implementation of this game.
-
+## Languages 🌐
+- [English](docs/README_EN.md)
+- [Українська](docs/README_UA.md)
